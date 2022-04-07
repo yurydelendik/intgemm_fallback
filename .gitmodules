@@ -1,0 +1,3 @@
+[submodule "intgemm"]
+	path = intgemm
+	url = https://github.com/kpu/intgemm
